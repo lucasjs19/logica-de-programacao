@@ -1,11 +1,13 @@
 # Lógica de Programação
 
 <h2>Sumário</h2>
-<li>Introdução</li>
+<li><a href="introducao">Introdução<a></li>
 <li><a href="#java">Java<a></li>
 
-
-<h3 id="Java">Java</h3>
+<h3 id="Introdução">Java</h3>
+  Repositório criado com o intuito de salvar e mostrar meus programas feitos de exercícios da faculdade e cursos online. Tentando mostrar minha evolução na programação e linguagens.
+  
+<h3 id="java">Java</h3>
 
 <a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/ParImpar.java"><li>1- Programa que informa se um número é par ou ímpar.</li></a>
 
