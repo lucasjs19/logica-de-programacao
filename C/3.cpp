@@ -1,5 +1,5 @@
 #include<stdio.h>
-int notas(int a) // função para determinar a quantidade de notas fornecidas pelo caixa.
+int notas(int a) // funÃ§Ã£o para determinar a quantidade de notas fornecidas pelo caixa.
 {
 	return a/10;
 }
@@ -15,12 +15,12 @@ main()
 		break;
 		resto = valor % 10;
 		if (valor<10)
-			printf("\nValor muito baixo");	//testando se o valor é valido.
+			printf("\nValor muito baixo");	//testando se o valor Ã© valido.
 		else
 		if (resto!=0)
-			printf("\nValor nao multiplo de 10"); // testando se o valor é valido.
+			printf("\nValor nao multiplo de 10"); // testando se o valor Ã© valido.
 		else
-		if (resto==0) //única condição que o valor é válido.
+		if (resto==0) //Ãºnica condiÃ§Ã£o que o valor Ã© vÃ¡lido.
 		{
 		tnotas = tnotas - notas(valor);
 		printf("\nNotas fornecidas: %d",notas(valor)); 
