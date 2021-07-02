@@ -3,7 +3,7 @@ Reunião de soluções de exercícios da faculdade e de cursos online.
 
 <h2>Sumário</h2>
 <li>Introdução</li>
-<li><h3><a href="#java">Java<a></h3></li>
+<li><a href="#java">Java<a></li>
 
 
 <h3 id="Java">Java</h3>
