@@ -10,7 +10,7 @@ Reunião de soluções de exercícios da faculdade e de cursos online.
 
 <a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/ParImpar.java">1- Programa que informa se um número é par ou ímpar.</a>
 
-<br></br>
+
 <a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/TelaCalc.java">2- Programa que soma dois números.</a>
 
 <br></br>
