@@ -3,7 +3,7 @@
 <h2>Sumário</h2>
 <li><a href="#introducao">Introdução</a></li>
 <li><a href="#java">Java</a></li>
-<li><a href="c">C</a></li>
+<li><a href="#c">C</a></li>
 
 <h3 id="introducao">Introdução</h3>
   Repositório criado com o intuito de salvar e mostrar meus programas feitos de exercícios da faculdade e cursos online. Tentando mostrar minha evolução na programação e linguagens.
