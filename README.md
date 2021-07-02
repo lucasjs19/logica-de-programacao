@@ -4,7 +4,7 @@
 <li><a href="introducao">Introdução<a></li>
 <li><a href="#java">Java<a></li>
 
-<h3 id="Introdução">Java</h3>
+<h3 id="introducao">Introdução</h3>
   Repositório criado com o intuito de salvar e mostrar meus programas feitos de exercícios da faculdade e cursos online. Tentando mostrar minha evolução na programação e linguagens.
   
 <h3 id="java">Java</h3>
