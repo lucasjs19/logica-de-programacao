@@ -1,8 +1,9 @@
 # Lógica de Programação
 
 <h2>Sumário</h2>
-<li><a href="#introducao">Introdução<a></li>
-<li><a href="#java">Java<a></li>
+<li><a href="#introducao">Introdução</a></li>
+<li><a href="#java">Java</a></li>
+<li><a href="c">C</a></li>
 
 <h3 id="introducao">Introdução</h3>
   Repositório criado com o intuito de salvar e mostrar meus programas feitos de exercícios da faculdade e cursos online. Tentando mostrar minha evolução na programação e linguagens.
@@ -38,7 +39,7 @@
 
   <h3 id="c">C</h3>
   
-  <li><a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/C/2.cpp"><1- Lista númerica em que os parâmetros (ordem, valor inicial, valor final e incremente) são fornecidas pelo usuário.</a></li>
+  <li><a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/C/2.cpp">1- Lista númerica em que os parâmetros (ordem, valor inicial, valor final e incremento) são fornecidas pelo usuário.</a></li>
     
- <li><a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/C/3.cpp"><2- Caixa eletrônico.</a></li>
+ <li><a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/C/3.cpp">2- Caixa eletrônico.</a></li>
 
