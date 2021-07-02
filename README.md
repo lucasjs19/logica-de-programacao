@@ -8,10 +8,10 @@ Reunião de soluções de exercícios da faculdade e de cursos online.
 
 <h3 id="Java">Java</h3>
 
-<a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/ParImpar.java">1- Programa que informa se um número é par ou ímpar.</a>
+<a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/ParImpar.java"><li>1- Programa que informa se um número é par ou ímpar.</li></a>
 
 
-<a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/TelaCalc.java">2- Programa que soma dois números.</a>
+<a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/TelaCalc.java"><li>2- Programa que soma dois números.</li></a>
 
 
 <a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/TelaEquacao.java">3- Programa que calcula o delta e informa se existem raízes reais de uma equação de segundo grau.</a>
