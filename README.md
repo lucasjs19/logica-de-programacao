@@ -34,4 +34,11 @@
 
 
 <a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/TelaVoto.java"><li>9- Programa que verifica a situação de voto (Não votante, voto obrigatório ou voto opcional) de acordo com a idade do usuário.</li></a>
+  
+
+  <h3 id="c">C</h3>
+  
+  <li><a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/C/2.cpp"><1- Lista númerica em que os parâmetros (ordem, valor inicial, valor final e incremente) são fornecidas pelo usuário.</a></li>
+    
+ <li><a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/C/3.cpp"><2- Caixa eletrônico.</a></li>
 
