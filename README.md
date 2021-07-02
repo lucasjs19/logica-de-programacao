@@ -8,10 +8,10 @@ Reunião de soluções de exercícios da faculdade e de cursos online.
 <br></br>2- Programa que soma dois números.
 <a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/TelaCalc.java">Calculadora</a>
 
-<br></br>3- Programa que calcula o delta e informa se existem raízes reais de uma equação de segundo grau
+<br></br>3- Programa que calcula o delta e informa se existem raízes reais de uma equação de segundo grau.
 <a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/TelaEquacao.java">Calculadora Equação Segundo grau</a>
 
-<br></br>4- Programa que "pensa" em um número de 1 a 5 e o usuário deve tentar adivinhar 
+<br></br>4- Programa que "pensa" em um número de 1 a 5 e o usuário deve tentar adivinhar.
 <a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/TelaGenio.java">Adivinhe o número</a>
 
 <br></br>5-
@@ -27,5 +27,5 @@ Reunião de soluções de exercícios da faculdade e de cursos online.
 <a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/TelaTriangulo.java">Triângulo</a>
 
 <br></br>9- Programa que verifica a situação de voto (Não votante, voto obrigatório ou voto opcional) de acordo com a idade do usuário.
-< href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/TelaVoto.java">Situação de voto</a>
+<a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/TelaVoto.java">Situação de voto</a>
 
