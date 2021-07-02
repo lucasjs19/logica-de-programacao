@@ -1,5 +1,4 @@
 # Lógica de Programação
-Reunião de soluções de exercícios da faculdade e de cursos online.
 
 <h2>Sumário</h2>
 <li>Introdução</li>
