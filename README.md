@@ -43,3 +43,12 @@
     
  <li><a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/C/3.cpp">2- Caixa eletrônico.</a></li>
 
+<li><a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/C/Salario.cpp">3- Calcular salário de um funcionário</a></li>
+
+<li><a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/C/Academia.cpp">4- Informações alunos academia.</a></li>
+
+<li><a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/C/ListaImpar.cpp">5- Mostrar numeros impares de uma lista de 1 até um máximo definido pelo usuário.</a></li>
+
+<li><a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/C/Operacoes.cpp">6- Lê um número e informa o dobro, a metade, o quadrado e a terça parte do número.</a></li>
+
+
