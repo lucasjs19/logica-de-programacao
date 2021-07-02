@@ -35,6 +35,9 @@
 
 
 <a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/TelaVoto.java"><li>9- Programa que verifica a situação de voto (Não votante, voto obrigatório ou voto opcional) de acordo com a idade do usuário.</li></a>
+
+<a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/telaFatorial.java"><li>10- Programa que faz o fatorial de 1 até 8.</li></a>
+
   
 
   <h3 id="c">C</h3>
