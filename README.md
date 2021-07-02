@@ -2,7 +2,7 @@
 Reunião de soluções de exercícios da faculdade e de cursos online.
 
 <h2>Java</h2>
-1- Programa que informa se um número é par ou ímpar.
+1- Programa que informa se um número é par ou ímpar.<br></br>
 <a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/ParImpar.java">Par ou ímpar</a>
 
 <br></br>2- Programa que soma dois números.<br></br>
