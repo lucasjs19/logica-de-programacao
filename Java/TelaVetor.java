@@ -22,9 +22,7 @@ public class TelaVetor extends javax.swing.JFrame {
      */
     public TelaVetor() {
         initComponents();
-         for (int c = 0; c< vetor.length-1; c++){
-            lista.addElement(vetor[c]);
-        }
+        forMethod();
     }
 
     /**
@@ -136,14 +134,17 @@ public class TelaVetor extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
-
-    private void btnAddActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnAddActionPerformed
-        // TODO add your handling code here:
-        vetor[selecionado]= (int) spnNum.getValue();
-        lista.removeAllElements();
+    void forMethod(){
+        
+         lista.removeAllElements();
         for (int c = 0; c< vetor.length-1; c++){
             lista.addElement(vetor[c]);
         }
+    }
+    private void btnAddActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnAddActionPerformed
+        // TODO add your handling code here:
+        vetor[selecionado]= (int) spnNum.getValue();
+        forMethod();
     }//GEN-LAST:event_btnAddActionPerformed
 
     private void lstVetorMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_lstVetorMouseClicked
@@ -155,20 +156,14 @@ public class TelaVetor extends javax.swing.JFrame {
     private void btnRemoveActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnRemoveActionPerformed
         // TODO add your handling code here:
         vetor[selecionado] = 0;
-        lista.removeAllElements();
-         for (int c = 0; c< vetor.length-1; c++){
-            lista.addElement(vetor[c]);
-        }
+        forMethod();
         
     }//GEN-LAST:event_btnRemoveActionPerformed
 
     private void btnSortActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSortActionPerformed
         // TODO add your handling code here:
         Arrays.sort(vetor);
-        lista.removeAllElements();
-         for (int c = 0; c< vetor.length-1; c++){
-            lista.addElement(vetor[c]);
-        }
+        forMethod();
         
     }//GEN-LAST:event_btnSortActionPerformed
 
