@@ -38,6 +38,10 @@
 
 <a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/telaFatorial.java"><li>10- Programa que faz o fatorial de 1 até 8.</li></a>
 
+<a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/TelaContador.java"><li>11- Programa que conta de acordo com o inicio, fim e passo determinado pelo usuário.</li></a>
+
+<a href="https://github.com/lucasjs19/logica-de-programacao/blob/main/Java/TelaVetor.java"><li>12- Programa que guarda numeros inteiros em um vetor de 5 posições, remove o número de qualquer posição e ordena o vetor.</li></a>
+
   
 
   <h3 id="c">C</h3>
